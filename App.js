@@ -1,3 +1,4 @@
+// author Sachin Paul
 import React from 'react';
 import logo from './Github logo.jpg';
 
