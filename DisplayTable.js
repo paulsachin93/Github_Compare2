@@ -1,3 +1,4 @@
+// author Sachin Paul
 import React from "react";
 
 const DisplayTable = ({ data, repositories, starred, data2, repositories2, starred2}) => {
